@@ -1,0 +1,95 @@
+body {
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: justify;
+}
+
+header {
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
+}
+
+main {
+    padding-top: 50px;
+}
+
+.formulario {
+    background: linear-gradient(to left, #640316, #640316);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.568);
+    color: white;
+}
+
+.titulo {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo-img {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+}
+
+.titulo-img-inicio {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 9pt;
+}
+
+.sub-titulo {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sub-titulo2 {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    text-align: center;
+}
+
+.parrafos {
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.parrafos-puntos {
+    font-size: 12pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+h1 {
+    margin-bottom: 3px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+hr {
+    margin-bottom: 0 !important;
+    margin-top: 2px !important;
+}
+
+img {
+    border: 1px solid black;
+}
